@@ -264,7 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Motezuki]
-  first_name: [Fabio Kenji, F.K.]
+  first_name: [Fabio Kenji, F.K., FK]
 
   style: apa
   locale: en
